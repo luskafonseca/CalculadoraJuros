@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.exe.config
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.exe
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.pdb
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.Form1.resources
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.Properties.Resources.resources
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.exe
+C:\Users\Lucas\source\repos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.pdb
